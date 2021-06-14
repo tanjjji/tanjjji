@@ -7,5 +7,5 @@ Currently working as SRE
 Living in Brazil 🇧🇷.
 24 years old
 
-# 📖 open source enthusiast, infraestructure, functional, security
+# 📖 open source enthusiast, infrastructure, functional, security
 ```
