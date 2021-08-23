@@ -4,7 +4,7 @@
 Hi, my name is tanji 💻.
 
 Currently working as SRE
-Living in Brazil :brazil:.
+Living in Brazil.
 24 years old
 
 # 📖 open source enthusiast, infrastructure, functional, security
