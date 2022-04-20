@@ -3,9 +3,9 @@
 ```diff
 Hi, my name is tanji 💻.
 
-Currently working as SRE
+Currently working as Tech lead at some tech company
 Living in Brazil.
-24 years old
+25 years old
 
 # 📖 open source enthusiast, infrastructure, functional, security
 ```
