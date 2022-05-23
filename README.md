@@ -1,3 +1,4 @@
+div { display: flex; }
 <img align="left" height="200" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
 
 <div align="right">
