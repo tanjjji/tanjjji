@@ -1,5 +1,5 @@
-<img align="left" height="200" width="100" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
-
+<img align="left" height="200" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
+<div alighn="right">
 ```diff
 Hi, my name is Tanji 💻.
 
@@ -9,3 +9,4 @@ Living in Brazil.
 
 # 📖 open source enthusiast, infrastructure, functional, security
 ```
+</div>
