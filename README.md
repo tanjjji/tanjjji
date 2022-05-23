@@ -1,4 +1,4 @@
-<img align="left" height="200" width="400" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
+<img align="left" height="200" width="100" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
 
 ```diff
 Hi, my name is Tanji 💻.
