@@ -1,9 +1,9 @@
 
 Hi, my name is Tanji 💻.
 
-Currently working as Tech lead at some tech company. <br>
-Living in Brazil. <br>
-25 years old. <br>
+<p>Currently working as Tech lead at some tech company. </p> <br>
+<p> Living in Brazil. </p> <br>
+<p> 25 years old. </p> <br>
 
 <p><small>open source enthusiast, infrastructure, functional, security </small></p><br>
 
