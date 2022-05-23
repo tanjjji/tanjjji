@@ -1,5 +1,4 @@
 <img align="left" height="200" src="https://media.giphy.com/media/cKhC19ztzjhL1Bw3wL/giphy.gif"/>
-
 ```diff
 Hi, my name is Tanji 💻.
 
