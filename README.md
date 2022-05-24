@@ -6,8 +6,6 @@
                 <br>
                 「 Currently working as Tech lead at <a href="https://www.enjoei.com.br/">@enjoei</a> 」<br>
                  { <small>open source enthusiast, infrastructure, functional, security </small>}<br>
-                <br>
-                <br>
         </samp>
  </p>
 </div>
