@@ -4,7 +4,7 @@
         <samp>
                 「 28 years old from Brazil 」
                 <br>
-                「 Currently working as Tech lead at <a href="https://www.enjoei.com.br/">@enjoei</a> 」<br>
+                「 Currently working as Development Specialist at <a href="https://unico.io/">@unico</a> 」<br>
                  { <small>open source enthusiast, infrastructure, functional, security </small>}<br>
         </samp>
  </p>
